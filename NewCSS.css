@@ -1,0 +1,90 @@
+@charset "UTF-8";
+#Box2 {
+    background-color: #449955;
+    bottom: 0;
+    color: #002277;
+    font-family: "Courier New",Courier,monospace;
+    font-size: medium;
+    font-style: normal;
+    height: 10%;
+    left: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+#Box1 {
+    background-color: #112200;
+    color: #FF9922;
+    font-family: "Courier New",Courier,monospace;
+    font-size: medium;
+    font-style: normal;
+    height: 90%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+#Box3 {
+    background-color: #440055;
+    color: #009900;
+    font-family: "Courier New",Courier,monospace;
+    font-size: medium;
+    font-style: normal;
+    position: absolute;
+}
+#Box4 {
+    background-color: #660022;
+    color: #009900;
+    font-family: "Courier New",Courier,monospace;
+    font-size: medium;
+    font-style: normal;
+    height: 70%;
+    left: 10%;
+    position: absolute;
+    top: 15%;
+    width: 80%;
+}
+#TBox {
+    background-color: #669922;
+    color: #009900;
+    font-family: "Courier New",Courier,monospace;
+    font-size: 80%;
+    font-style: normal;
+    height: 10%;
+    left: 0%;
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    text-align: center;
+    text-rendering: geometricPrecision;
+    text-align: center;
+}
+#MBox {
+    background-color: #338855;
+    color: #009900;
+    font-family: "Courier New",Courier,monospace;
+    font-size: medium;
+    font-style: normal;
+    height: 60%;
+    left: 0%;
+    position: absolute;
+    top: 15%;
+    width: 100%;
+}
+#XBox {
+    background-color: #220000;
+    color: #009900;
+    font-family: "Courier New",Courier,monospace;
+    font-size: medium;
+    font-style: normal;
+    height: 30%;
+    left: 0%;
+    position: absolute;
+    top: 80%;
+    width: 100%;
+    text-align: justify;
+}
